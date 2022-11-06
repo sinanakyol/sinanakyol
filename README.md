@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning Frontend Development and Web Development.
 - 📫 How to reach me [sinanakyol01@gmail.com](https://sinanakyol01@gmail.com)
 
-### Connect with me:
-[![image](https://user-images.githubusercontent.com/110792519/200195903-53751a8f-2e2d-4730-b93c-c322da5c19a2.png)](https://www.linkedin.com/in/sinan-a-959412180/)
+## *Connect with me:*
+<a href="https://www.linkedin.com/in/sinan-a-959412180/"><img src="https://user-images.githubusercontent.com/110792519/200197968-080d1891-4a00-4f72-87a1-3b6f8e214e0b.png" height="40"></a>
 
 
-### Skills:
+
+
+## *Skills:*
 <div>
 <img src="https://user-images.githubusercontent.com/110792519/200194080-cc9ad8e3-7ac8-4c85-b1e1-bb2feb947a68.png" height="100" >
 <img src="https://user-images.githubusercontent.com/110792519/200194133-c56bc63c-47c1-48d9-a4e0-fee074fa29da.png" height="100" >
