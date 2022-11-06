@@ -1,7 +1,10 @@
-# Hi 👋, I’m Sinan
+# Hi 👋, I’m Sinan 
+<img src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif" width="400">
+
 - 👀 I’m interested in learning new programming languages & codes.
 - 🌱 I’m currently learning Frontend Development and Web Development.
 - 📫 How to reach me [sinanakyol01@gmail.com](https://sinanakyol01@gmail.com)
+
 
 ## *Connect with me:*
 <a href="https://www.linkedin.com/in/sinan-a-959412180/"><img src="https://user-images.githubusercontent.com/110792519/200197968-080d1891-4a00-4f72-87a1-3b6f8e214e0b.png" height="40"></a>
