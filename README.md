@@ -1,4 +1,4 @@
-# Hi 👋, I’m Sinan 
+# Hi 👋, I’m Sinan.
 <img src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif" width="400">
 
 - 👀 I’m interested in new programming languages & codes.
