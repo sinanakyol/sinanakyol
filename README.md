@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in new programming languages & codes.
 - 🌱 I’m currently learning Frontend Development and Web Development.
-- 📫 How to reach me [sinanakyol01@gmail.com](https://sinanakyol01@gmail.com)
+- 📫 How to reach me ...   <a href=mailto:snn.akyl@hotmail.com ><img src="https://cdn-icons-png.flaticon.com/512/651/651006.png?w=740&t=st=1668867267~exp=1668867867~hmac=1f5a756281c26745d9702bed67111cc32468b14cd29a143ffb1e10a8a15a806f" height="30"></a>
 
 
 ## *Connect with me:*
